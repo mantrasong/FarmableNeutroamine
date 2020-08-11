@@ -16,7 +16,7 @@
 		<pathCost>10</pathCost>
 		<ingestible />
 		<plant>
-			<growDays>15</growDays>
+			<growDays>8</growDays>
 			<dieIfLeafless>true</dieIfLeafless>
 			<maxMeshCount>4</maxMeshCount>
 			<harvestTag>Standard</harvestTag>
